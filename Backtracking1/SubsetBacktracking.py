@@ -1,3 +1,5 @@
+#TimeComplexity: O(n)
+#SpaceComplexity: O(n)
 class Solution(object):
     def subsets(self,nums):
         self.nums = nums # declaring the nums
